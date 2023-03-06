@@ -34,9 +34,9 @@
 
 ## Key Features
 
-• Can add expenses
-• Display last 7 day expenses 
-• Delete expenses
+• Can add expenses  
+• Display last 7 day expenses  
+• Delete expenses  
 
 ## Built With
 
