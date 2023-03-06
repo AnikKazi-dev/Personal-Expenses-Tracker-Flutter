@@ -13,7 +13,7 @@
 * [Screenshots](#screenshots)
 * [About the Project](#about-the-project)
 * [Key Features](#key-features)
-* [Built With](#build)
+* [Built With](#built-with)
 * [Contact](#contact)
 
 ## Mockup
@@ -30,13 +30,13 @@
 
 ## About the project
 
-* **XXXXXX**: XXX.
-* **XXXX**: XXXXXXXX.
+* **Backend connection**: sqflite
 
 ## Key Features
 
-* **State management**: Redux, BloC, repository patterns .
-* **Backend connection**: API provider pattern.
+• Can add expenses
+• Display last 7 day expenses 
+• Delete expenses
 
 ## Built With
 
